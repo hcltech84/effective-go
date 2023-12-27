@@ -1,2 +1,1 @@
-# effective-go
-Effective Go
+# Effective Go
